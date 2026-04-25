@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { toast } from 'react-hot-toast';
 import logo from '../assets/Elderly.png';
 import { CiMenuFries } from "react-icons/ci";
 import { RxCross1 } from "react-icons/rx";
